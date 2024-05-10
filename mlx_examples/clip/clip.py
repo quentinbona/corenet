@@ -1,6 +1,6 @@
 # For licensing see accompanying LICENSE file.
 # Copyright (C) 2024 Apple Inc. All Rights Reserved.
-#
+# Quentin Bona was here
 
 # Taken from https://github.com/ml-explore/mlx-examples/blob/main/clip/image_processor.py
 # with modifications about imports and default model loading location.
